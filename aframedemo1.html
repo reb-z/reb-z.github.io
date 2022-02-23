@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    </head>
+    <body>
+        <a-scene>
+            <a-assets>
+                <img
+                  id="stones"
+                  src="img/sand.jpg" />
+              </a-assets>
+              <a-box
+              src="#stones"
+              position="0 2 -5"
+              rotation="0 45 45">
+            <!--<a-box color="red" 
+            position="3 2 -5">
+            rotation="0 45 45">
+            scale="0.5 2 1">
+          
+          x-axis rotation - 33°,y-axis - 45°, z-axis - 0°
+        -->
+        <!--
+        x-axis shrunk by 0.5, y-axis stretched by 3,
+        z-axis unchanged
+      -->
+        </a-box>
+        </a-scene>
+    </body>
+</html>
