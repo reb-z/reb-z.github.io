@@ -1,0 +1,11 @@
+Model Information:
+* title:	Charging bull
+* source:	https://sketchfab.com/3d-models/charging-bull-979cc21596534c8c8347a3a89a5c1e54
+* author:	alban (https://sketchfab.com/alban)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Charging bull" (https://sketchfab.com/3d-models/charging-bull-979cc21596534c8c8347a3a89a5c1e54) by alban (https://sketchfab.com/alban) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
